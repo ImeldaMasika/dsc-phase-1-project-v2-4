@@ -28,7 +28,7 @@ This analysis utilizes datasets acquired from three movie websites, namely Box O
 
 * The third dataset, tmdb.movies.csv, contains genre codes, original language of the movies, original movie titles, popularity metrics, dates in which the movies were released, and information on the votes. I used this dataset to map genre codes to genre names obtained from the same website so that I could see which genres are more trending.
 #### Data Analysis
-The analysis phase focuses on exploring the relationships in the previously prepared data to determine. 
+The analysis phase focuses on exploring the relationships in the previously prepared data to help make an analysis of the given data. 
 
 #### Conclusions
 This analysis leads to the following conclusions for the types of films that are the best performing in the box office:
