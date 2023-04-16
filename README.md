@@ -12,5 +12,4 @@ My analysis was based on three crucial factors:
 * Determining the most prevalent genre.
 * Examining the correlation between production budget and return on investment.
 * What are the best performing studios at the movie box office?
-* Determining the most prevalent genre. This can be Examining the correlation between production costs and revenue. Identifying the optimal month for releasing a movie.
 
